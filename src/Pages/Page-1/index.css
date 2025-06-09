@@ -1,11 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Boldonse&family=WDXL+Lubrifont+TC&display=swap');
-iframe {
-  height: 200px;
-  
-}
+
 
 body {
+  
   margin: 0;
   font-family: 'Poppins', sans-serif;
   background: radial-gradient(ellipse at top left, #3d1f47, #1a1a1a);
@@ -13,11 +11,12 @@ body {
   min-height: 100vh;
   position: relative;
   overflow-x: hidden;
+  
 }
 
 .page-container {
   max-width: 800px;
-  margin: 60px auto;
+  margin:  auto;
   background: rgba(40, 40, 40, 0.9);
   backdrop-filter: blur(12px);
   padding: 48px 36px;
@@ -72,10 +71,11 @@ body {
 }
 
 .spotify-embed {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
   border-radius: 18px;
-  overflow: hidden;
-  
-  
+ 
 }
 
 .photo-frame {

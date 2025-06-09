@@ -15,7 +15,7 @@ function App() {
     <section className="app-container">
       
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 1'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
         color={'#FF5733'}
@@ -24,80 +24,80 @@ function App() {
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 2'}
         description={'Escrito durante uma call, o texto transborda paixão, desejo contido e gratidão. Um momento de conexão sincera e abertura entre dois corações apaixonados.'}
        
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 3'}
         description={'Entre saudades e planos, nasce o desejo de uma vida a dois cheia de amor, estabilidade e sonhos realizados. Um futuro de rainha para ela, e de pai dedicado para ele.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 4'}
         description={''}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 5'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 6'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 7'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 8'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 9'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 10'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 11'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 12'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 13'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
 
       <Cards
-        imageUrl={'../src/images/dia-1-image.png'}
+        imageUrl={'/images/dia-1-image.png'}
         title={'DIA 14'}
         description={'O início de uma surpresa especial: 14 textos em 14 dias, um gesto feito com amor, código e muita saudade. Um presente simples, mas cheio de sentimento.'}
       />
