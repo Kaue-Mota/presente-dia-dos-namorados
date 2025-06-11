@@ -34,7 +34,7 @@ body {
   right: -1px;
   bottom: -1px;
   border-radius: 24px;
-  background: linear-gradient(135deg, #f8003a, #270414, #f8003a);
+  background: linear-gradient(135deg, #5a8675, #032702, #58774c);
   background-size: 600% 600%;
   z-index: -1;
   animation: shine 10s ease infinite;
