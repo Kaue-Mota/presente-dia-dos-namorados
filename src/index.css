@@ -2,9 +2,15 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-height: 100vh;
+
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
+  
+
+  
+  image-rendering: pixelated;
+  background-color: #121212;    
+    
   background-color: #242424;
 
   font-synthesis: none;
@@ -25,8 +31,8 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  min-width: 320px;
-  min-height: 1900px;
+  
+  min-height: 1950px;
 }
 
 h1 {
